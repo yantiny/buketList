@@ -13,10 +13,10 @@ Aplikasi untuk mengelola koleksi bouquet favoritmu 💐
 
 # screenshoot project
 
-<img src="./assets/images/readme/IMG-20251029-WA0002[1].jpg" width="300" />
-<img src="./assets/images/readme/IMG-20251029-WA0003[1].jpg" width="300" />
-<img src="./assets/images/readme/IMG-20251029-WA0004[1].jpg" width="300" />
-<img src="./assets/images/readme/IMG-20251029-WA0005[1].jpg" width="300" />
+<img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.08_4da6bb1f.jpg" width="300" />
+<img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.08_e402d072.jpg" width="300" />
+<img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.09_1a89e777.jpg" width="300" />
+<img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.09_586e0cfe.jpg" width="300" />
 <img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.09_7bb4c9d0.jpg" width="300" />
 <img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.10_09a06412.jpg" width="300" />
 <img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.10_50a5935c.jpg" width="300" />
