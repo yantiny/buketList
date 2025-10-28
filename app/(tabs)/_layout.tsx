@@ -33,6 +33,30 @@ export default function TabsLayout() {
           ),
         }}
       />
+      {/* Tambahkan ini untuk halaman detail */}
+      <Tabs.Screen
+        name="detail/[id]"
+        options={{
+          title: "Detail", // ✅ Ubah label di tab bar
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons
+              name="information-circle-outline"
+              size={size}
+              color={color}
+            />
+          ),
+        }}
+      />
+      // Di file app/(tabs)/_layout.tsx, tambahkan:
+      <Tabs.Screen
+        name="stats"
+        options={{
+          title: "Stats",
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="stats-chart" size={size} color={color} />
+          ),
+        }}
+      />
     </Tabs>
   );
 }

@@ -4,16 +4,28 @@ export const lightTheme = {
   card: "#FFFFFF",
   border: "#E5E7EB",
   placeholder: "#A1A1AA",
-  button: "#10B981",
-  primary: "#10B981"
+  button: "#fc81b4ff",
+  primary: "#e472baff"
 };
 
 export const darkTheme = {
-  background: "#1F2937",
+  background: "#b96fa8ff",
   text: "#F3F4F6",
-  card: "#374151",
-  border: "#4B5563",
+  card: "#52264cff",
+  border: "#522746ff",
   placeholder: "#9CA3AF",
-  button: "#22C55E",
-  primary: "#22C55E"
+  button: "#8d2d5dff",
+  primary: "#bb477fff"
 };
+
+export interface Bouquet {
+  id: string;
+  name: string;
+  price: number;
+  image?: string;
+  purchased: boolean;
+  isSold: boolean;
+  size?: string;
+  category?: string;
+  description?: string;
+}
