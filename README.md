@@ -2,6 +2,8 @@
 
 <div align="center">
 
+    ![App Banner](./assets/banner.png)
+
     [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
     [![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 
@@ -12,7 +14,7 @@
 # screenshoot project
 
 <div align="center">
-    <img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.08_4da6bb1f.jpg" width="250" />
+    <img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.08_4da6bb1f.jpg" width="270" />
     <img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.08_e402d072.jpg" width="250" />
     <img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.09_586e0cfe.jpg" width="250" /> 
     <img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.09_1a89e777.jpg" width="250" />
