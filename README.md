@@ -3,8 +3,7 @@
 # 🌸 BuketList 
 -  Aplikasi Mengelola Daftar Belanja Buket
 
-Deskripsi singkat aplikasi :
-BuketList adalah aplikasi mobile yang memudahkan pengguna mengelola daftar belanja buket. Pengguna dapat menambah, mengedit, menandai, atau menghapus item belanja dengan mudah. Aplikasi ini membantu mencatat dan memantau kebutuhan belanja secara teratur sehingga proses pembelian buket menjadi lebih praktis dan efisien.
+BuketList adalah aplikasi mobile yang memudahkan pengguna mengelola daftar belanja dan koleksi buket. Pengguna dapat menambah, mengedit, menandai, atau menghapus item belanja dengan mudah. Aplikasi ini membantu mencatat dan memantau kebutuhan belanja secara teratur sehingga proses pembelian buket menjadi lebih praktis dan efisien.
 
 <div align="center">
 
