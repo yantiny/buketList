@@ -1,5 +1,8 @@
 # Ni Wayan Diantini (2301020064)
 
+# Link Loom : 
+https://www.loom.com/share/ae04ad8a0e734e08bf875928ee3b407a
+
 # 🌸 BuketList 
 -  Aplikasi Mengelola Daftar Belanja Buket
 
