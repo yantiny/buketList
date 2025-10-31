@@ -1,6 +1,6 @@
-# Ni Wayan Diantini (2301020064)
+## Ni Wayan Diantini (2301020064)
 
-# Link Loom : 
+### Link Loom : 
 https://www.loom.com/share/ae04ad8a0e734e08bf875928ee3b407a
 
 # 🌸 BuketList 
@@ -17,7 +17,7 @@ Aplikasi untuk mengelola koleksi bouquet favoritmu 💐
 
 </div>
 
-# screenshoot project
+## Screenshoot Project
 
 <div align="center">
     <img src="./assets/images/readme/WhatsApp Image 2025-10-29 at 06.42.08_4da6bb1f.jpg" width="270" />
